@@ -1,0 +1,54 @@
+﻿body {
+}
+.page-top-fixed {
+    padding: 40px 0 0 !important;
+    z-index: 1;
+}
+#box4nternal {
+    max-width: 100% !important;
+}
+.tab-content {
+    display: block !important;
+}
+.select2-dropdown{
+    text-align:right !important;
+}
+.choose-service-type .custom-control label {
+    padding: 1rem !important;
+    font-size: 16px !important;
+}
+.btn{
+    font-size:14px !important;
+}
+.has-float-label > span:last-of-type, .has-float-label label {
+    font-size: 16px !important;
+}
+.table thead {
+    font-size: 16px !important;
+}
+.table-sm th, .table-sm td {
+    padding: .75rem !important;
+}
+.table tbody {
+    font-size: 14px !important;
+}
+.service-terms-content{
+    font-size: 16px;
+}
+.top-nav-sub-menu{
+    padding:0 !important;
+}
+label.req > span:not(.select2):before {
+    height: 12px;
+}
+label.req > span:not(.select2):before {
+    top: -5px;
+}
+.qq-upload-button span {
+    top: -7px;
+}
+.custom-control-label::before, .custom-control-label::after {
+    width: 1.5rem !important;
+    height: 1.5rem !important;
+}
+
